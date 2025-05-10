@@ -1,0 +1,1 @@
+# Synthetic-Soil-Data-Generation-using-CTGAN
